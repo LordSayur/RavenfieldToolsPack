@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 744001079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 893c07b2f993a84abe013d74429093c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/kg ayer (Experimental).unity
+Dependencies: []
